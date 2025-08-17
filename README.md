@@ -9,6 +9,6 @@ Projeto de aprendizado em GitHub.
 <body>
   <h1>Olá, GitHub! 👋</h1>
   <p>Este é o meu primeiro projeto publicado no GitHub.</p>
-  <p>Feito por <strong>[Seu Nome]</strong></p>
+  <p>Feito por <strong>[Caroline]</strong></p>
 </body>
 </html>
